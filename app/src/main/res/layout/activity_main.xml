@@ -13,5 +13,5 @@
         android:scrollbars="none"
         android:padding="6dp"
         android:id="@+id/list_view"/>
-
+<!--proyecto finalizado con exito-->
 </RelativeLayout>
