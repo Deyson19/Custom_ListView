@@ -42,12 +42,12 @@ public class AdapterList extends BaseAdapter {
 
         TextView title = view.findViewById(R.id.title);
         TextView description = view.findViewById(R.id.description);
-        //TextView costo = view.findViewById(R.id.costo);
+        TextView value = view.findViewById(R.id.value);
         ImageView image = view.findViewById(R.id.image);
 
         title.setText(listPojos.get(position).getTitle());
         description.setText(listPojos.get(position).getDescription());
-        //costo.setText(listPojos.get(position).getCosto());
+        value.setText(listPojos.get(position).getValue());
         image.setImageResource(listPojos.get(position).getImages());
 
         view.setOnClickListener(new View.OnClickListener() {

@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Custom ListView</string>
-    <string name="banano">Es un fruto comestible, botánicamente una baya, de varios tipos de grandes plantas herbáceas del género Musa. A estas plantas de gran porte que tienen aspecto de arbolillo se las denomina plataneras, bananeros, bananeras, plátanos o bananos.</string>
-    <string name="manzana">La manzana es el fruto comestible de la especie Malus domestica, llamada comúnmente manzano. Es una fruta pomácea de forma redonda y sabor más o menos dulce, dependiendo de la variedad.</string>
-    <string name="pera">Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.​ Sin embargo, cuando se trata del fruto comestible, se hace referencia mayormente al producido por el llamado peral común.</string>
-    <string name="mango">El mango es el nombre de las frutas de varias especies de árboles del género Mangifera, especialmente de Mangifera indica, y sus numerosos cultivares.</string>
-    <string name="sandia">Citrullus lanatus, comúnmente llamada sandía, acendría, síndria, patilla, aguamelón o melón de agua es una especie de la familia Cucurbitaceae originaria de África, pero tiene una gran presencia y difusión en Asia.</string>
-    <string name="papaya">Carica papaya es una especie de planta arbustiva del género Carica en la familia Caricaceae. Su fruto se conoce comúnmente como papaya, papayón, olocotón, papayo, mamón, lechosa o lechoza. Carica del griego “karike”, nombre de una higuera. Papaya, deriva del maya “páapay-ya” que significa zapote jaspeado.</string>
-    <string name="guagaya">Las guayabas son un género de unas cien especies de árboles tropicales y árboles pequeños en la familia Myrtaceae, nativas de América. Las hojas son opuestas, simples, elípticas a ovaladas, de 5 a 15 centímetros de largo. Las flores son blancas, con cinco pétalos y numerosos estambres. </string>
-    <string name="aguacate">Persea americana, llamado popularmente aguacate, ​​​ palto ​​ o aguacatero, ​ es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate​​ o palta, ​​ es una baya comestible.​</string>
+    <string name="app_name">ListView:Con Frutas</string>
+    <string name="banano">Es un fruto comestible, botánicamente una baya, de varios tipos de grandes plantas herbáceas del género Musa...</string>
+    <string name="manzana">La manzana es una fruta pomácea de forma redonda y sabor más o menos dulce, dependiendo de la variedad...</string>
+    <string name="pera">Se denomina pera al fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales...</string>
+    <string name="mango">El mango es el nombre de las frutas de varias especies de árboles del género Mangifera, especialmente de Mangifera indica, y sus numerosos cultivares...</string>
+    <string name="sandia">Citrullus lanatus, comúnmente llamada sandía es una especie de la familia Cucurbitaceae originaria de África, pero tiene una gran presencia y difusión en Asia...</string>
+    <string name="papaya">Carica papaya es una especie de planta arbustiva del género Carica en la familia Caricaceae...</string>
+    <string name="guagaya">Las guayabas son un género de unas cien especies de árboles tropicales y árboles pequeños en la familia Myrtaceae, nativas de América...</string>
+    <string name="aguacate">Persea americana, llamado popularmente aguacate, es una especie arbórea del género Persea perteneciente a la familia Lauraceae, cuyo fruto, el aguacate es una baya comestible...</string>
 </resources>
