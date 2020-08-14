@@ -33,13 +33,13 @@ public class MainActivity extends AppCompatActivity {
     private void listShow(){
         list = new ArrayList<ListPojo>();
 
-        list.add(new ListPojo("Banano","Es una fruta muy rica", R.drawable.aguacate));
-        list.add(new ListPojo("Manzana","Es una fruta muy rica",R.drawable.mango));
-        list.add(new ListPojo("Manzana 3","Es una fruta muy rica",R.drawable.manzana));
-        list.add(new ListPojo("Manzana 4","Es una fruta muy rica",R.drawable.papaya));
-        list.add(new ListPojo("Manzana 5","Es una fruta muy rica",R.drawable.guayaba));
-        list.add(new ListPojo("Manzana 6","Es una fruta muy rica",R.drawable.banana));
-        list.add(new ListPojo("Manzana 7","Es una fruta muy rica",R.drawable.sandia));
-        list.add(new ListPojo("Manzana 8","Es una fruta muy rica",R.drawable.fast_food));
+        list.add(new ListPojo("Aguacate",R.string.aguacate, R.drawable.aguacate));
+        list.add(new ListPojo("Mango",R.string.mango,R.drawable.mango));
+        list.add(new ListPojo("Manzana",R.string.manzana,R.drawable.manzana));
+        list.add(new ListPojo("Papaya",R.string.papaya,R.drawable.papaya));
+        list.add(new ListPojo("Guayaba",R.string.guagaya,R.drawable.guayaba));
+        list.add(new ListPojo("Banana",R.string.banano,R.drawable.banana));
+        list.add(new ListPojo("Sandia",R.string.sandia,R.drawable.sandia));
+        list.add(new ListPojo("Pera",R.string.pera,R.drawable.pera));
     }
 }

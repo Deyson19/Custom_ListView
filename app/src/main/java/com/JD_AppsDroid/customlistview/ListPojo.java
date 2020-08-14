@@ -2,10 +2,10 @@ package com.JD_AppsDroid.customlistview;
 
 public class ListPojo {
     private String title;
-    private String description;
+    private int description;
     private int images;
 
-    public ListPojo(String title,String description,int images){
+    public ListPojo(String title,int description,int images){
         this.title = title;
         this.description = description;
         this.images = images;
@@ -14,7 +14,7 @@ public class ListPojo {
         return title;
     }
 
-    public String getDescription(){
+    public int getDescription(){
         return description;
     }
 
